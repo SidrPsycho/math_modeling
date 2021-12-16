@@ -1,0 +1,10 @@
+gravity_const = 6.67 * 10**(-11)
+skorost_sveta = 3 * 10**8
+postoyannaya_Planka = 6.63 * 10**(-34)
+postoyannaya_Diraka = 1.05 * 10**(-34)
+postpyannaya_Avogadro = 6.02 * 10**23
+uskoreniye_svobodnogo_padeniya = 9.8
+postoyannaya_Bolcmana = 1.38 * 10**(-23)
+chislo_Eylera = 2.72
+postoyannaya_Kulona = 8.98 * 10**9
+elektricheskaya_postoyannaya = 8.85 * 10**(-12)
