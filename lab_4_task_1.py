@@ -1,8 +1,9 @@
-import numpy as np
+def func(*args):
+  i = 0
+  s = 0
+  while i < len(args):
+    s = s + args[i]
+    i = i + 1
+  print(s/len(args))
 
-def mf(a):
- for i in range(len(a)):
-   x = 0
-
-a = np.array([1, 5, 8, 3, 51, 14, 79])  
-print(mf(a))
+func(2, 3, 7, 11)
